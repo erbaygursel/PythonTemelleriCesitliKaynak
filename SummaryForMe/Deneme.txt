@@ -1,2 +1,5 @@
 Erbaya metodu append'den geliyor. Yeni dosya oluşturmuyor eğer varsa, ama yoksa yeni dosya oluşturup içine ekleme yapıyor.a metodu append'den geliyor. Yeni dosya oluşturmuyor eğer varsa, ama yoksa yeni dosya oluşturup içine ekleme yapıyor.a metodu append'den geliyor. Yeni dosya oluşturmuyor eğer varsa, ama yoksa yeni dosya oluşturup içine ekleme yapıyor.alt satıra geçme denemesi
 NEREDE KALMIŞTIK?
+Kolektif Kütüphane
+Opel Astra  araç
+Wordpress eğitimi
